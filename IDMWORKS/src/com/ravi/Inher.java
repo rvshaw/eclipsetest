@@ -2,7 +2,7 @@ package com.ravi;
 
 public class Inher {
 
-	 String s;
+	 String s,k;
 	int j;
 	Inher(String s, int j)
 	{
