@@ -2,10 +2,12 @@ package com.ravi;
 
 public class Add {
 	
-	public int a=5;
+	
 	public int b=10;
 	public int c=10;
 	int k=11;
+	int l=11;
+	int a=56;
  int add(int x, int y)
 
 {
