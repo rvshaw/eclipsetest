@@ -4,7 +4,7 @@ public class Add {
 	
 	public int a=5;
 	public int b=10;
-	
+	public int c=10;
  int add(int x, int y)
 
 {
