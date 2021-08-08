@@ -8,6 +8,7 @@ public class Add {
 	int k=11;
 	int l=11;
 	int a=6;
+	int h=33;
  int add(int x, int y)
 
 {
