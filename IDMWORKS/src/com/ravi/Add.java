@@ -7,7 +7,7 @@ public class Add {
 	public int c=10;
 	int k=11;
 	int l=11;
-	int a=56;
+	int a=6;
  int add(int x, int y)
 
 {
