@@ -9,7 +9,7 @@ public class Add {
 	int l=11;
 	int a=6;
 
-	int h=33;
+	int h=33,j=32;
 
 	int g=77;
 
